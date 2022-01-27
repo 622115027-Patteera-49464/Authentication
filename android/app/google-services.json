@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752042570002",
+    "project_id": "patteera-1ba39",
+    "storage_bucket": "patteera-1ba39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752042570002:android:1f2b1313bcef8fcd9583cb",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752042570002-qevdom6vm9g0hd5kp15i7n0e3eijhnku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKiyX3f0jCfFI3cXQ5CRcl-JuQIiU1bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752042570002-qevdom6vm9g0hd5kp15i7n0e3eijhnku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
